@@ -1,5 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.fucha",
-               "sha256_cert_fingerprints": ["A9:C3:E2:47:A0:6F:43:87:EE:D1:48:A0:29:6E:FC:00:AF:72:BA:80:3B:B3:B8:1F:86:11:C5:D3:5C:00:0A:9A"] }
-}]
